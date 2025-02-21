@@ -4,9 +4,11 @@
 AI-Based Store is an innovative e-commerce platform that leverages to provide personalized shopping experiences. Users can browse a wide range of products, manage their shopping cart, and enjoy a seamless checkout process.
 
 ## Features
-- Product Recommendations
 - User Authentication (Login/Signup)
 - Admin Dashboard for Product Management
+- User dashboard for Products
+- Product Recommendations
+- Products Fileration
 - Responsive Design
 
 ## Installation
